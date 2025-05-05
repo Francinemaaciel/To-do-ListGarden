@@ -17,7 +17,7 @@ Projeto feito com **React + Vite** para praticar componentes, estados e estiliza
 ## 📸 Preview
 
 
-![Tela do app](./public/to-do.png)
+![Tela do app](to-do.png)
 
 ---
 
