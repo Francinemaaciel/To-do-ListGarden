@@ -30,6 +30,12 @@ Projeto feito com **React + Vite** para praticar componentes, estados e estiliza
 
 ---
 
+## 🧑‍🎨 Autora
+
+Francine Maciel
+
+---
+
 ## 💡 Como rodar localmente
 
 ```bash
@@ -44,3 +50,4 @@ npm install
 
 # Rode o projeto
 npm run dev
+
